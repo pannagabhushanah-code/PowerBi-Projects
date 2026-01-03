@@ -25,7 +25,7 @@ This Power BI project analyzes employee attrition to identify trends across depa
 - Exit rate differs across job roles and gender.
 
 ## Files
-- `HR_Attrition_Dashboard.pbix` – Power BI dashboard file
+- `HR Attrition Analysis Dashboard.pbix` – Power BI dashboard file
 - `dataset/hr_attrition.csv` – Source dataset
 - `dashboard_overview.png` – Dashboard preview
 
