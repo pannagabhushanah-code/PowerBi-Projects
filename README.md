@@ -29,3 +29,47 @@ This Power BI project analyzes employee attrition to identify trends across depa
 - `HR Attrition Analysis.csv` – Source dataset
 - `HR Attrition Screenshot` – Dashboard preview
 
+
+
+# Sales Performance Analysis (Power BI)
+
+## 📊 Overview
+This project features an interactive **Sales Performance Analysis Dashboard** built using **Power BI**.  
+The dashboard provides insights into sales, orders, profit, and regional performance to support data-driven business decisions.
+
+The project is designed as a **portfolio project** to demonstrate Power BI, DAX, and data visualization skills.
+
+---
+
+## 🎯 Objectives
+- Analyze overall sales and profitability
+- Compare sales and profit across regions
+- Identify monthly sales growth patterns
+- Track key business KPIs for performance monitoring
+
+---
+
+## 📌 Key KPIs
+- Total Sales  
+- Total Orders  
+- Total Profit  
+- Profit Margin (%)  
+- Average Order Value  
+
+---
+
+## 📈 Dashboard Features
+- KPI cards for executive-level summary
+- Sales contribution by region
+- Profit comparison across regions
+- Monthly sales growth trend analysis
+- Interactive slicers for region-based filtering
+- Clean and consistent visual design
+
+---
+
+## 🛠 Tools & Technologies
+- **Power BI Desktop**
+- **DAX** (Data Analysis Expressions)
+- **Power Query** for data transformation
+
