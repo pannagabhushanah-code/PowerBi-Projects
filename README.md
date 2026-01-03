@@ -27,5 +27,5 @@ This Power BI project analyzes employee attrition to identify trends across depa
 ## Files
 - `HR_Attrition_Dashboard.pbix` – Power BI dashboard file
 - `dataset/hr_attrition.csv` – Source dataset
-- `screenshots/dashboard_overview.png` – Dashboard preview
+- `dashboard_overview.png` – Dashboard preview
 
